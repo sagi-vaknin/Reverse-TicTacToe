@@ -3,7 +3,7 @@
 <h3 align="center">Reverse Tic Tac Toe</h3>
 
   <p align="center">
-   Reversed Tic Tac Toe Game
+   Reverse Tic Tac Toe Game
     <br />
     <a href="https://github.com/sagi-vaknin/reverse-tictactoe"><strong>Explore the docs »</strong></a>
   </p>
