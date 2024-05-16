@@ -13,7 +13,6 @@
 This project is a Reversed Tic Tac Toe game developed using C# .NET with Windows WinForms GUI. 
 It includes both multiplayer and single-player modes. In multiplayer mode, two players can compete against each other, while in single-player mode, the player can play against the computer. The game features a user-friendly interface and allows for interactive gameplay with intuitive controls.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### File Structure
 * WindowsUI folder: Directory containing the GUI and game UI, completely separated from the game logic, allowing for easy and convenient re-use.
@@ -24,7 +23,7 @@ It includes both multiplayer and single-player modes. In multiplayer mode, two p
 * C# .NET
 * Windows WinForms GUI
 
-
+  
 ## Contact
 Sagi Vaknin - sagivak1@gmail.com <br>
 LinkedIn  - https://www.linkedin.com/in/sagi-vaknin-sv <br>
